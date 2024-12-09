@@ -11,6 +11,6 @@ cargo build --release
 ## To run
 
 ```bash
-cargo run --release -- <path to asm file>
+cargo run --release <path to asm file>
 ```
 
